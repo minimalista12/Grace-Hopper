@@ -1,0 +1,34 @@
+body {
+	font-family:sans-serif;
+
+
+}
+
+
+.biography {
+
+	width: 65%;
+	display:inline-block;
+	font-size:13px
+	line-heigth: 1.5;
+}
+
+
+.summary{
+
+
+	display: inline-block;
+	vertical-align: top;
+}
+
+.summary-table{
+
+	border:3px solid #a2a9b1; 
+	bckground-color: #f8f9fa;
+}
+
+.summary-table thead th tr{
+	background-color:B0C4DE;
+
+
+}
